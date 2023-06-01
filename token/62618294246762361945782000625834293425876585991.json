@@ -1,5 +1,12 @@
 {
     "image": "ipfs:\/\/QmTDxnzcvj2p3xBrKcGv1wxoyhAn2yzCQnZZ9LmFjReuH9",
     "name": "Token DDL",
-    "description": "ERC1155Timelock"
+    "description": "ERC1155Timelock 1",
+    "decimals": 6,
+    "properties": {
+        "decimals_property": {
+            "name": "Decimals",
+            "value": "6"
+        }
+    }
 }
